@@ -6,7 +6,7 @@ Cherry Pop Player is a lightweight music playlist management application designe
 
 ## Preview
 
-![Cherry Pop Player]("C:\Users\Shadow\Downloads\ilsi\c++ poo\Gestion simplifiée de playlists musicales\screenshots\cherry-pop-player.png.png")
+![Cherry Pop Player](screenshots/cherry-pop-player.png.png)
 
 ## Features
 
